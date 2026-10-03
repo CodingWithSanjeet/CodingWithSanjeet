@@ -30,7 +30,7 @@ Previously worked across enterprise engineering teams at:
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Sanjeet AI Twin** | A chat-based digital twin that answers questions about my experience, grounded in my LinkedIn PDF and career summary; uses function calling to capture recruiter leads (Pushover alerts) and log unanswered questions. | Python · OpenAI · Gradio · Function Calling | [Code](https://github.com/CodingWithSanjeet/sanjeet-ai-twin) |
+| **Sanjeet AI Twin** | A chat-based digital twin that answers questions about my experience, grounded in my LinkedIn PDF and career summary; uses function calling to capture recruiter leads (Pushover alerts) and log unanswered questions. | Python · OpenAI · Gradio · Function Calling | [Code](https://github.com/CodingWithSanjeet/sanjeet-ai-twin) · [Live Demo](https://sanjeet-ai-twin.onrender.com) _(free tier: first load may take ~30–60s)_ |
 | **Multimodal RAG** | Chat with PDFs that mix text, tables and charts: PyMuPDF extraction, vision-model image summaries, modality routing and page-cited answers. | LangChain · Pinecone · all-MiniLM-L6-v2 · Groq LLMs · PyMuPDF | [Code](https://github.com/CodingWithSanjeet/multimodal-rag) |
 | **DishGen AI** | AI recipe generator: enter your preferences and watch recipes stream live. | React · TypeScript · Node.js · Express · OpenAI · Tailwind CSS | [Code](https://github.com/CodingWithSanjeet/dishgen-ai) · [Live Demo](https://dishgen-ai.netlify.app/) |
 | **LangGraph Design Patterns** | Implementations of agent patterns: routers, ReAct loops, parallelization and orchestrator-workers. | Python · LangGraph | [Code](https://github.com/CodingWithSanjeet/langgraph-design-patterns) |
